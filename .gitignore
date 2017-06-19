@@ -1,0 +1,9 @@
+### Java template
+*.class
+.idea
+
+# Package Files #
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/

@@ -1,0 +1,1555 @@
+{
+    "@28alex82" : {
+      "Слак" : "@28alex82",
+      "Джуджики" : 55
+    },
+    "@a.chykolai" : {
+      "Слак" : "@a.chykolai",
+      "Джуджики" : 16
+    },
+    "@abulgakoff" : {
+      "Слак" : "@abulgakoff",
+      "Джуджики" : 8
+    },
+    "@abusabir" : {
+      "Слак" : "@abusabir",
+      "Джуджики" : 2
+    },
+    "@aleksandr_hal" : {
+      "Слак" : "@aleksandr_hal",
+      "Джуджики" : 155
+    },
+    "@aleksandr.shokha" : {
+      "Слак" : "@aleksandr.shokha",
+      "Джуджики" : 2
+    },
+    "@aleksandra.viedina" : {
+      "Слак" : "@aleksandra.viedina",
+      "Джуджики" : 24
+    },
+    "@aleksashin" : {
+      "Слак" : "@aleksashin",
+      "Джуджики" : 23
+    },
+    "@alena" : {
+      "Слак" : "@alena",
+      "Джуджики" : 7
+    },
+    "@alex_pil" : {
+      "Слак" : "@alex_pil",
+      "Джуджики" : 24
+    },
+    "@alex_timonov" : {
+      "Слак" : "@alex_timonov",
+      "Джуджики" : 1
+    },
+    "@alexander_nat" : {
+      "Слак" : "@alexander_nat",
+      "Джуджики" : 1
+    },
+    "@alexander.adel" : {
+      "Слак" : "@alexander.adel",
+      "Джуджики" : 60
+    },
+    "@alexander.baglay" : {
+      "Слак" : "@alexander.baglay",
+      "Джуджики" : 149
+    },
+    "@alexander.diachenko" : {
+      "Слак" : "@alexander.diachenko",
+      "Джуджики" : 80
+    },
+    "@alexander.petrovskii" : {
+      "Слак" : "@alexander.petrovskii",
+      "Джуджики" : 167
+    },
+    "@alexander.usov" : {
+      "Слак" : "@alexander.usov",
+      "Джуджики" : 28
+    },
+    "@alexander.vlasov" : {
+      "Слак" : "@alexander.vlasov",
+      "Джуджики" : 100
+    },
+    "@alexandero" : {
+      "Слак" : "@alexandero",
+      "Джуджики" : 66
+    },
+    "@alexandr" : {
+      "Слак" : "@alexandr",
+      "Джуджики" : 16
+    },
+    "@alexey_gerasymov" : {
+      "Слак" : "@alexey_gerasymov",
+      "Джуджики" : 7
+    },
+    "@alexey.strizhak" : {
+      "Слак" : "@alexey.strizhak",
+      "Джуджики" : 1
+    },
+    "@alexeyzenchenko" : {
+      "Слак" : "@alexeyzenchenko",
+      "Джуджики" : 1
+    },
+    "@alexnrn" : {
+      "Слак" : "@alexnrn",
+      "Джуджики" : 1
+    },
+    "@alexsot" : {
+      "Слак" : "@alexsot",
+      "Джуджики" : 32
+    },
+    "@alleria" : {
+      "Слак" : "@alleria",
+      "Джуджики" : 97
+    },
+    "@alx304" : {
+      "Слак" : "@alx304",
+      "Джуджики" : 1
+    },
+    "@amira" : {
+      "Слак" : "@amira",
+      "Джуджики" : 32
+    },
+    "@anastasiia" : {
+      "Слак" : "@anastasiia",
+      "Джуджики" : 1
+    },
+    "@andivax" : {
+      "Слак" : "@andivax",
+      "Джуджики" : 6
+    },
+    "@andreas" : {
+      "Слак" : "@andreas",
+      "Джуджики" : 1
+    },
+    "@andreii_kysylytsia" : {
+      "Слак" : "@andreii_kysylytsia",
+      "Джуджики" : 1
+    },
+    "@andrew.nazarenko" : {
+      "Слак" : "@andrew.nazarenko",
+      "Джуджики" : 9
+    },
+    "@andrewua" : {
+      "Слак" : "@andrewua",
+      "Джуджики" : 5
+    },
+    "@andrey_leus" : {
+      "Слак" : "@andrey_leus",
+      "Джуджики" : 42
+    },
+    "@andrey-qa" : {
+      "Слак" : "@andrey-qa",
+      "Джуджики" : 9
+    },
+    "@andriipol" : {
+      "Слак" : "@andriipol",
+      "Джуджики" : 71
+    },
+    "@andriy.popovych" : {
+      "Слак" : "@andriy.popovych",
+      "Джуджики" : 4
+    },
+    "@andriyb" : {
+      "Слак" : "@andriyb",
+      "Джуджики" : 9
+    },
+    "@andron" : {
+      "Слак" : "@andron",
+      "Джуджики" : 99
+    },
+    "@andros.evgen" : {
+      "Слак" : "@andros.evgen",
+      "Джуджики" : 1
+    },
+    "@andy" : {
+      "Слак" : "@andy",
+      "Джуджики" : 54
+    },
+    "@anmakhort" : {
+      "Слак" : "@anmakhort",
+      "Джуджики" : 17
+    },
+    "@anna" : {
+      "Слак" : "@anna",
+      "Джуджики" : 41
+    },
+    "@anton.kott" : {
+      "Слак" : "@anton.kott",
+      "Джуджики" : 11
+    },
+    "@anton1113" : {
+      "Слак" : "@anton1113",
+      "Джуджики" : 2
+    },
+    "@antonioua" : {
+      "Слак" : "@antonioua",
+      "Джуджики" : 6
+    },
+    "@ants" : {
+      "Слак" : "@ants",
+      "Джуджики" : 3
+    },
+    "@artega" : {
+      "Слак" : "@artega",
+      "Джуджики" : 1
+    },
+    "@artem" : {
+      "Слак" : "@artem",
+      "Джуджики" : 92
+    },
+    "@Artem.Boyko" : {
+      "Слак" : "@Artem.Boyko",
+      "Джуджики" : 26
+    },
+    "@artem.burlaka" : {
+      "Слак" : "@artem.burlaka",
+      "Джуджики" : 115
+    },
+    "@avm" : {
+      "Слак" : "@avm",
+      "Джуджики" : 143
+    },
+    "@bajiepka" : {
+      "Слак" : "@bajiepka",
+      "Джуджики" : 12
+    },
+    "@benzotopor" : {
+      "Слак" : "@benzotopor",
+      "Джуджики" : 162
+    },
+    "@bigbunny" : {
+      "Слак" : "@bigbunny",
+      "Джуджики" : 159
+    },
+    "@blackmedved" : {
+      "Слак" : "@blackmedved",
+      "Джуджики" : 2
+    },
+    "@bogdan.sribnyy" : {
+      "Слак" : "@bogdan.sribnyy",
+      "Джуджики" : 33
+    },
+    "@bombarder" : {
+      "Слак" : "@bombarder",
+      "Джуджики" : 23
+    },
+    "@borman22" : {
+      "Слак" : "@borman22",
+      "Джуджики" : 106
+    },
+    "@borsukkk" : {
+      "Слак" : "@borsukkk",
+      "Джуджики" : 3
+    },
+    "@buxta_baraxta" : {
+      "Слак" : "@buxta_baraxta",
+      "Джуджики" : 2
+    },
+    "@caxap04ek" : {
+      "Слак" : "@caxap04ek",
+      "Джуджики" : 3
+    },
+    "@cibraiker" : {
+      "Слак" : "@cibraiker",
+      "Джуджики" : 4
+    },
+    "@citikot" : {
+      "Слак" : "@citikot",
+      "Джуджики" : 3
+    },
+    "@constantincr" : {
+      "Слак" : "@constantincr",
+      "Джуджики" : 6
+    },
+    "@d_ivan_d" : {
+      "Слак" : "@d_ivan_d",
+      "Джуджики" : 1
+    },
+    "@danil" : {
+      "Слак" : "@danil",
+      "Джуджики" : 10
+    },
+    "@danvych" : {
+      "Слак" : "@danvych",
+      "Джуджики" : 2
+    },
+    "@daria199210" : {
+      "Слак" : "@daria199210",
+      "Джуджики" : 1
+    },
+    "@den" : {
+      "Слак" : "@den",
+      "Джуджики" : 2
+    },
+    "@denis" : {
+      "Слак" : "@denis",
+      "Джуджики" : 6
+    },
+    "@denis.melnychenko" : {
+      "Слак" : "@denis.melnychenko",
+      "Джуджики" : 20
+    },
+    "@denis.mulyar" : {
+      "Слак" : "@denis.mulyar",
+      "Джуджики" : 103
+    },
+    "@denis.slizko" : {
+      "Слак" : "@denis.slizko",
+      "Джуджики" : 10
+    },
+    "@denisimus_it" : {
+      "Слак" : "@denisimus_it",
+      "Джуджики" : 13
+    },
+    "@deps" : {
+      "Слак" : "@deps",
+      "Джуджики" : 1
+    },
+    "@destroyyer" : {
+      "Слак" : "@destroyyer",
+      "Джуджики" : 236
+    },
+    "@devman.io" : {
+      "Слак" : "@devman.io",
+      "Джуджики" : 1
+    },
+    "@devvent" : {
+      "Слак" : "@devvent",
+      "Джуджики" : 1
+    },
+    "@dima" : {
+      "Слак" : "@dima",
+      "Джуджики" : 27
+    },
+    "@dimas13" : {
+      "Слак" : "@dimas13",
+      "Джуджики" : 33
+    },
+    "@dimasik" : {
+      "Слак" : "@dimasik",
+      "Джуджики" : 14
+    },
+    "@dimasiya" : {
+      "Слак" : "@dimasiya",
+      "Джуджики" : 2
+    },
+    "@dimd" : {
+      "Слак" : "@dimd",
+      "Джуджики" : 1
+    },
+    "@dimsun" : {
+      "Слак" : "@dimsun",
+      "Джуджики" : 1
+    },
+    "@dlukash" : {
+      "Слак" : "@dlukash",
+      "Джуджики" : 31
+    },
+    "@dmipro" : {
+      "Слак" : "@dmipro",
+      "Джуджики" : 5
+    },
+    "@dmitin" : {
+      "Слак" : "@dmitin",
+      "Джуджики" : 0
+    },
+    "@dmitriy_zhyla" : {
+      "Слак" : "@dmitriy_zhyla",
+      "Джуджики" : 13
+    },
+    "@dmitriyroy" : {
+      "Слак" : "@dmitriyroy",
+      "Джуджики" : 136
+    },
+    "@dmitry_bashmakov" : {
+      "Слак" : "@dmitry_bashmakov",
+      "Джуджики" : 57
+    },
+    "@dmitry_puchkin" : {
+      "Слак" : "@dmitry_puchkin",
+      "Джуджики" : 1
+    },
+    "@dmitry_sologub" : {
+      "Слак" : "@dmitry_sologub",
+      "Джуджики" : 1
+    },
+    "@dmitrym" : {
+      "Слак" : "@dmitrym",
+      "Джуджики" : 40
+    },
+    "@dmytro.boyko" : {
+      "Слак" : "@dmytro.boyko",
+      "Джуджики" : 23
+    },
+    "@dmytro.lytvynenko" : {
+      "Слак" : "@dmytro.lytvynenko",
+      "Джуджики" : 89
+    },
+    "@dmytro.maliarenko" : {
+      "Слак" : "@dmytro.maliarenko",
+      "Джуджики" : 74
+    },
+    "@dmytropopov.ua" : {
+      "Слак" : "@dmytropopov.ua",
+      "Джуджики" : 1
+    },
+    "@dolgiy_alex" : {
+      "Слак" : "@dolgiy_alex",
+      "Джуджики" : 2
+    },
+    "@doszhan" : {
+      "Слак" : "@doszhan",
+      "Джуджики" : 1
+    },
+    "@dragazeg" : {
+      "Слак" : "@dragazeg",
+      "Джуджики" : 2
+    },
+    "@dvshapkin" : {
+      "Слак" : "@dvshapkin",
+      "Джуджики" : 8
+    },
+    "@dzmitry" : {
+      "Слак" : "@dzmitry",
+      "Джуджики" : 1
+    },
+    "@edinak" : {
+      "Слак" : "@edinak",
+      "Джуджики" : 1
+    },
+    "@egor" : {
+      "Слак" : "@egor",
+      "Джуджики" : 13
+    },
+    "@egornagorny" : {
+      "Слак" : "@egornagorny",
+      "Джуджики" : 7
+    },
+    "@elenab" : {
+      "Слак" : "@elenab",
+      "Джуджики" : 2
+    },
+    "@elsh" : {
+      "Слак" : "@elsh",
+      "Джуджики" : 1
+    },
+    "@endorrfin" : {
+      "Слак" : "@endorrfin",
+      "Джуджики" : 1
+    },
+    "@ephorie" : {
+      "Слак" : "@ephorie",
+      "Джуджики" : 6
+    },
+    "@eugene.grigoryev" : {
+      "Слак" : "@eugene.grigoryev",
+      "Джуджики" : 20
+    },
+    "@eugene.kortov" : {
+      "Слак" : "@eugene.kortov",
+      "Джуджики" : 38
+    },
+    "@eugene.zadoyannyy" : {
+      "Слак" : "@eugene.zadoyannyy",
+      "Джуджики" : 159
+    },
+    "@evgen.anufriev" : {
+      "Слак" : "@evgen.anufriev",
+      "Джуджики" : 37
+    },
+    "@evgene.podolyako" : {
+      "Слак" : "@evgene.podolyako",
+      "Джуджики" : 32
+    },
+    "@evgenyi" : {
+      "Слак" : "@evgenyi",
+      "Джуджики" : 1
+    },
+    "@ewergy" : {
+      "Слак" : "@ewergy",
+      "Джуджики" : 1
+    },
+    "@far_outer" : {
+      "Слак" : "@far_outer",
+      "Джуджики" : 7
+    },
+    "@fastday" : {
+      "Слак" : "@fastday",
+      "Джуджики" : 1
+    },
+    "@fdenis.kyiv" : {
+      "Слак" : "@fdenis.kyiv",
+      "Джуджики" : 352
+    },
+    "@figli" : {
+      "Слак" : "@figli",
+      "Джуджики" : 20
+    },
+    "@finman" : {
+      "Слак" : "@finman",
+      "Джуджики" : 37
+    },
+    "@flycatcher" : {
+      "Слак" : "@flycatcher",
+      "Джуджики" : 4
+    },
+    "@freerider" : {
+      "Слак" : "@freerider",
+      "Джуджики" : 57
+    },
+    "@fright" : {
+      "Слак" : "@fright",
+      "Джуджики" : 1
+    },
+    "@galina" : {
+      "Слак" : "@galina",
+      "Джуджики" : 8
+    },
+    "@galina2306" : {
+      "Слак" : "@galina2306",
+      "Джуджики" : 2
+    },
+    "@garazd" : {
+      "Слак" : "@garazd",
+      "Джуджики" : 456
+    },
+    "@gazz" : {
+      "Слак" : "@gazz",
+      "Джуджики" : 1
+    },
+    "@gbr.it" : {
+      "Слак" : "@gbr.it",
+      "Джуджики" : 1
+    },
+    "@gerald" : {
+      "Слак" : "@gerald",
+      "Джуджики" : 2
+    },
+    "@glebvlasyuk" : {
+      "Слак" : "@glebvlasyuk",
+      "Джуджики" : 1
+    },
+    "@gooddimoh" : {
+      "Слак" : "@gooddimoh",
+      "Джуджики" : 5
+    },
+    "@gradred" : {
+      "Слак" : "@gradred",
+      "Джуджики" : 1
+    },
+    "@greegav" : {
+      "Слак" : "@greegav",
+      "Джуджики" : 40
+    },
+    "@grinadir1" : {
+      "Слак" : "@grinadir1",
+      "Джуджики" : 6
+    },
+    "@hamster" : {
+      "Слак" : "@hamster",
+      "Джуджики" : 97
+    },
+    "@hasanov85" : {
+      "Слак" : "@hasanov85",
+      "Джуджики" : 1
+    },
+    "@hdimka" : {
+      "Слак" : "@hdimka",
+      "Джуджики" : 3
+    },
+    "@helga" : {
+      "Слак" : "@helga",
+      "Джуджики" : 1
+    },
+    "@horgolenko" : {
+      "Слак" : "@horgolenko",
+      "Джуджики" : 75
+    },
+    "@iamstubborn" : {
+      "Слак" : "@iamstubborn",
+      "Джуджики" : 1
+    },
+    "@ideajavadoc" : {
+      "Слак" : "@ideajavadoc",
+      "Джуджики" : 36
+    },
+    "@igor" : {
+      "Слак" : "@igor",
+      "Джуджики" : 100
+    },
+    "@igor_savchenko" : {
+      "Слак" : "@igor_savchenko",
+      "Джуджики" : 1
+    },
+    "@igor.maksymov" : {
+      "Слак" : "@igor.maksymov",
+      "Джуджики" : 1
+    },
+    "@igor.stakhovskyi" : {
+      "Слак" : "@igor.stakhovskyi",
+      "Джуджики" : 1
+    },
+    "@igorek" : {
+      "Слак" : "@igorek",
+      "Джуджики" : 6
+    },
+    "@igorosha" : {
+      "Слак" : "@igorosha",
+      "Джуджики" : 56
+    },
+    "@ingword" : {
+      "Слак" : "@ingword",
+      "Джуджики" : 1
+    },
+    "@irhandri" : {
+      "Слак" : "@irhandri",
+      "Джуджики" : 1
+    },
+    "@iriny_o" : {
+      "Слак" : "@iriny_o",
+      "Джуджики" : 1
+    },
+    "@it_cosmonavt" : {
+      "Слак" : "@it_cosmonavt",
+      "Джуджики" : 6
+    },
+    "@iuriigaidai" : {
+      "Слак" : "@iuriigaidai",
+      "Джуджики" : 6
+    },
+    "@ivan.krasovkij" : {
+      "Слак" : "@ivan.krasovkij",
+      "Джуджики" : 11
+    },
+    "@ivan.shapovalov" : {
+      "Слак" : "@ivan.shapovalov",
+      "Джуджики" : 153
+    },
+    "@ivan.tsvelikov" : {
+      "Слак" : "@ivan.tsvelikov",
+      "Джуджики" : 349
+    },
+    "@ivanf" : {
+      "Слак" : "@ivanf",
+      "Джуджики" : 2
+    },
+    "@ivankuptsov" : {
+      "Слак" : "@ivankuptsov",
+      "Джуджики" : 0
+    },
+    "@jaifar" : {
+      "Слак" : "@jaifar",
+      "Джуджики" : 1
+    },
+    "@jakatta" : {
+      "Слак" : "@jakatta",
+      "Джуджики" : 1
+    },
+    "@james" : {
+      "Слак" : "@james",
+      "Джуджики" : 32
+    },
+    "@javako" : {
+      "Слак" : "@javako",
+      "Джуджики" : 4
+    },
+    "@javatier" : {
+      "Слак" : "@javatier",
+      "Джуджики" : 293
+    },
+    "@julia_norkina" : {
+      "Слак" : "@julia_norkina",
+      "Джуджики" : 91
+    },
+    "@juliafedchenko" : {
+      "Слак" : "@juliafedchenko",
+      "Джуджики" : 1
+    },
+    "@junglebobo" : {
+      "Слак" : "@junglebobo",
+      "Джуджики" : 1
+    },
+    "@karz0n" : {
+      "Слак" : "@karz0n",
+      "Джуджики" : 7
+    },
+    "@kasatka" : {
+      "Слак" : "@kasatka",
+      "Джуджики" : 1
+    },
+    "@kate_v" : {
+      "Слак" : "@kate_v",
+      "Джуджики" : 1
+    },
+    "@kerolyurii" : {
+      "Слак" : "@kerolyurii",
+      "Джуджики" : 4
+    },
+    "@ketedzel" : {
+      "Слак" : "@ketedzel",
+      "Джуджики" : 1
+    },
+    "@kheugeny" : {
+      "Слак" : "@kheugeny",
+      "Джуджики" : 4
+    },
+    "@kiril_bondarev" : {
+      "Слак" : "@kiril_bondarev",
+      "Джуджики" : 7
+    },
+    "@kirill_n" : {
+      "Слак" : "@kirill_n",
+      "Джуджики" : 11
+    },
+    "@kirill_sidorov" : {
+      "Слак" : "@kirill_sidorov",
+      "Джуджики" : 63
+    },
+    "@kolay" : {
+      "Слак" : "@kolay",
+      "Джуджики" : 24
+    },
+    "@konstantin" : {
+      "Слак" : "@konstantin",
+      "Джуджики" : 83
+    },
+    "@kostya.natalukha" : {
+      "Слак" : "@kostya.natalukha",
+      "Джуджики" : 1
+    },
+    "@krasnitskiy" : {
+      "Слак" : "@krasnitskiy",
+      "Джуджики" : 1
+    },
+    "@kshybun" : {
+      "Слак" : "@kshybun",
+      "Джуджики" : 31
+    },
+    "@kshyn" : {
+      "Слак" : "@kshyn",
+      "Джуджики" : 1
+    },
+    "@lesya" : {
+      "Слак" : "@lesya",
+      "Джуджики" : 1
+    },
+    "@liero" : {
+      "Слак" : "@liero",
+      "Джуджики" : 2
+    },
+    "@lisandr" : {
+      "Слак" : "@lisandr",
+      "Джуджики" : 298
+    },
+    "@liubomyr.krasivskyi" : {
+      "Слак" : "@liubomyr.krasivskyi",
+      "Джуджики" : 4
+    },
+    "@lvt" : {
+      "Слак" : "@lvt",
+      "Джуджики" : 1
+    },
+    "@maclaud" : {
+      "Слак" : "@maclaud",
+      "Джуджики" : 1
+    },
+    "@mafusail" : {
+      "Слак" : "@mafusail",
+      "Джуджики" : 5
+    },
+    "@magcraft" : {
+      "Слак" : "@magcraft",
+      "Джуджики" : 136
+    },
+    "@maistrnco" : {
+      "Слак" : "@maistrnco",
+      "Джуджики" : 46
+    },
+    "@maksym_bobyr" : {
+      "Слак" : "@maksym_bobyr",
+      "Джуджики" : 1
+    },
+    "@maksym.mudrakov" : {
+      "Слак" : "@maksym.mudrakov",
+      "Джуджики" : 41
+    },
+    "@maluy" : {
+      "Слак" : "@maluy",
+      "Джуджики" : 17
+    },
+    "@malysheva" : {
+      "Слак" : "@malysheva",
+      "Джуджики" : 1
+    },
+    "@mandriychak" : {
+      "Слак" : "@mandriychak",
+      "Джуджики" : 5
+    },
+    "@marmoset" : {
+      "Слак" : "@marmoset",
+      "Джуджики" : 24
+    },
+    "@maryna.zagurskaya" : {
+      "Слак" : "@maryna.zagurskaya",
+      "Джуджики" : 4
+    },
+    "@max" : {
+      "Слак" : "@max",
+      "Джуджики" : 1
+    },
+    "@max_bulgakov" : {
+      "Слак" : "@max_bulgakov",
+      "Джуджики" : 2
+    },
+    "@max_led" : {
+      "Слак" : "@max_led",
+      "Джуджики" : 5
+    },
+    "@max.bondar" : {
+      "Слак" : "@max.bondar",
+      "Джуджики" : 64
+    },
+    "@maxymmateuk" : {
+      "Слак" : "@maxymmateuk",
+      "Джуджики" : 20
+    },
+    "@mctryn" : {
+      "Слак" : "@mctryn",
+      "Джуджики" : 2
+    },
+    "@mishkina" : {
+      "Слак" : "@mishkina",
+      "Джуджики" : 1
+    },
+    "@mitos" : {
+      "Слак" : "@mitos",
+      "Джуджики" : 26
+    },
+    "@mix" : {
+      "Слак" : "@mix",
+      "Джуджики" : 1
+    },
+    "@mkarma" : {
+      "Слак" : "@mkarma",
+      "Джуджики" : 1
+    },
+    "@mor94ok" : {
+      "Слак" : "@mor94ok",
+      "Джуджики" : 4
+    },
+    "@moses_odessa" : {
+      "Слак" : "@moses_odessa",
+      "Джуджики" : 87
+    },
+    "@mrgorilla" : {
+      "Слак" : "@mrgorilla",
+      "Джуджики" : 13
+    },
+    "@mrmob" : {
+      "Слак" : "@mrmob",
+      "Джуджики" : 1
+    },
+    "@mykolay.kh" : {
+      "Слак" : "@mykolay.kh",
+      "Джуджики" : 3
+    },
+    "@nadin" : {
+      "Слак" : "@nadin",
+      "Джуджики" : 3
+    },
+    "@nataliya.burdeynaya" : {
+      "Слак" : "@nataliya.burdeynaya",
+      "Джуджики" : 123
+    },
+    "@natalka_kr" : {
+      "Слак" : "@natalka_kr",
+      "Джуджики" : 20
+    },
+    "@natasha" : {
+      "Слак" : "@natasha",
+      "Джуджики" : 1
+    },
+    "@nazar_bondarets" : {
+      "Слак" : "@nazar_bondarets",
+      "Джуджики" : 1
+    },
+    "@nik_roman" : {
+      "Слак" : "@nik_roman",
+      "Джуджики" : 27
+    },
+    "@nikita_frolov" : {
+      "Слак" : "@nikita_frolov",
+      "Джуджики" : 94
+    },
+    "@nikobob" : {
+      "Слак" : "@nikobob",
+      "Джуджики" : 1
+    },
+    "@nikolay.horushko" : {
+      "Слак" : "@nikolay.horushko",
+      "Джуджики" : 278
+    },
+    "@nikolya" : {
+      "Слак" : "@nikolya",
+      "Джуджики" : 13
+    },
+    "@nkb" : {
+      "Слак" : "@nkb",
+      "Джуджики" : 1
+    },
+    "@novasfera" : {
+      "Слак" : "@novasfera",
+      "Джуджики" : 1
+    },
+    "@oleg_nesterov" : {
+      "Слак" : "@oleg_nesterov",
+      "Джуджики" : 2
+    },
+    "@oleg_zhorzha" : {
+      "Слак" : "@oleg_zhorzha",
+      "Джуджики" : 76
+    },
+    "@oleg.chudnovskiy" : {
+      "Слак" : "@oleg.chudnovskiy",
+      "Джуджики" : 5
+    },
+    "@oleg.maloshtan" : {
+      "Слак" : "@oleg.maloshtan",
+      "Джуджики" : 7
+    },
+    "@oleg.rodin.incretio" : {
+      "Слак" : "@oleg.rodin.incretio",
+      "Джуджики" : 153
+    },
+    "@oleggondar" : {
+      "Слак" : "@oleggondar",
+      "Джуджики" : 1
+    },
+    "@oleksandr.d" : {
+      "Слак" : "@oleksandr.d",
+      "Джуджики" : 30
+    },
+    "@oleksii92" : {
+      "Слак" : "@oleksii92",
+      "Джуджики" : 21
+    },
+    "@oleksiik" : {
+      "Слак" : "@oleksiik",
+      "Джуджики" : 4
+    },
+    "@olena.barabash" : {
+      "Слак" : "@olena.barabash",
+      "Джуджики" : 176
+    },
+    "@olesia.zagoruiko" : {
+      "Слак" : "@olesia.zagoruiko",
+      "Джуджики" : 11
+    },
+    "@oleu" : {
+      "Слак" : "@oleu",
+      "Джуджики" : 11
+    },
+    "@olga_k" : {
+      "Слак" : "@olga_k",
+      "Джуджики" : 22
+    },
+    "@olga7325" : {
+      "Слак" : "@olga7325",
+      "Джуджики" : 1
+    },
+    "@olgapopova" : {
+      "Слак" : "@olgapopova",
+      "Джуджики" : 10
+    },
+    "@olha.vitiaz" : {
+      "Слак" : "@olha.vitiaz",
+      "Джуджики" : 213
+    },
+    "@olia.dav" : {
+      "Слак" : "@olia.dav",
+      "Джуджики" : 66
+    },
+    "@omela" : {
+      "Слак" : "@omela",
+      "Джуджики" : 1
+    },
+    "@otkrivashkin" : {
+      "Слак" : "@otkrivashkin",
+      "Джуджики" : 82
+    },
+    "@pablo_de-santa" : {
+      "Слак" : "@pablo_de-santa",
+      "Джуджики" : 6
+    },
+    "@paul.kuts" : {
+      "Слак" : "@paul.kuts",
+      "Джуджики" : 33
+    },
+    "@pavel" : {
+      "Слак" : "@pavel",
+      "Джуджики" : 1
+    },
+    "@pavel.smolianinov" : {
+      "Слак" : "@pavel.smolianinov",
+      "Джуджики" : 39
+    },
+    "@pavel.vishnyakov" : {
+      "Слак" : "@pavel.vishnyakov",
+      "Джуджики" : 17
+    },
+    "@perlovskiy" : {
+      "Слак" : "@perlovskiy",
+      "Джуджики" : 59
+    },
+    "@peterson" : {
+      "Слак" : "@peterson",
+      "Джуджики" : 1
+    },
+    "@petr.kramar" : {
+      "Слак" : "@petr.kramar",
+      "Джуджики" : 258
+    },
+    "@Philip_kiev" : {
+      "Слак" : "@Philip_kiev",
+      "Джуджики" : 19
+    },
+    "@pkucharenka" : {
+      "Слак" : "@pkucharenka",
+      "Джуджики" : 6
+    },
+    "@professor312" : {
+      "Слак" : "@professor312",
+      "Джуджики" : 1
+    },
+    "@rebel" : {
+      "Слак" : "@rebel",
+      "Джуджики" : 20
+    },
+    "@resolut" : {
+      "Слак" : "@resolut",
+      "Джуджики" : 12
+    },
+    "@retaler" : {
+      "Слак" : "@retaler",
+      "Джуджики" : 52
+    },
+    "@roma" : {
+      "Слак" : "@roma",
+      "Джуджики" : 1
+    },
+    "@romach" : {
+      "Слак" : "@romach",
+      "Джуджики" : 12
+    },
+    "@roman" : {
+      "Слак" : "@roman",
+      "Джуджики" : 1
+    },
+    "@roman_maliarchuk" : {
+      "Слак" : "@roman_maliarchuk",
+      "Джуджики" : 1
+    },
+    "@roman_nimchuk" : {
+      "Слак" : "@roman_nimchuk",
+      "Джуджики" : 5
+    },
+    "@roman.pavlenko" : {
+      "Слак" : "@roman.pavlenko",
+      "Джуджики" : 75
+    },
+    "@roman.rozborsky" : {
+      "Слак" : "@roman.rozborsky",
+      "Джуджики" : 124
+    },
+    "@romar" : {
+      "Слак" : "@romar",
+      "Джуджики" : 6
+    },
+    "@rostyslavpaliuha" : {
+      "Слак" : "@rostyslavpaliuha",
+      "Джуджики" : 75
+    },
+    "@ruslan_old_jr" : {
+      "Слак" : "@ruslan_old_jr",
+      "Джуджики" : 17
+    },
+    "@rybalka" : {
+      "Слак" : "@rybalka",
+      "Джуджики" : 2
+    },
+    "@sad" : {
+      "Слак" : "@sad",
+      "Джуджики" : 5
+    },
+    "@sage" : {
+      "Слак" : "@sage",
+      "Джуджики" : 2
+    },
+    "@salnikov" : {
+      "Слак" : "@salnikov",
+      "Джуджики" : 1
+    },
+    "@sanderson" : {
+      "Слак" : "@sanderson",
+      "Джуджики" : 1
+    },
+    "@sandy_dn_ua" : {
+      "Слак" : "@sandy_dn_ua",
+      "Джуджики" : 7
+    },
+    "@santwely" : {
+      "Слак" : "@santwely",
+      "Джуджики" : 17
+    },
+    "@sd84" : {
+      "Слак" : "@sd84",
+      "Джуджики" : 1
+    },
+    "@serg" : {
+      "Слак" : "@serg",
+      "Джуджики" : 1
+    },
+    "@sergalex" : {
+      "Слак" : "@sergalex",
+      "Джуджики" : 5
+    },
+    "@sergeda" : {
+      "Слак" : "@sergeda",
+      "Джуджики" : 1
+    },
+    "@sergey" : {
+      "Слак" : "@sergey",
+      "Джуджики" : 24
+    },
+    "@sergey_bucha" : {
+      "Слак" : "@sergey_bucha",
+      "Джуджики" : 84
+    },
+    "@sergey_shkirenko" : {
+      "Слак" : "@sergey_shkirenko",
+      "Джуджики" : 16
+    },
+    "@sergey.kubrakov" : {
+      "Слак" : "@sergey.kubrakov",
+      "Джуджики" : 42
+    },
+    "@sergey.radov" : {
+      "Слак" : "@sergey.radov",
+      "Джуджики" : 8
+    },
+    "@sergii050588" : {
+      "Слак" : "@sergii050588",
+      "Джуджики" : 92
+    },
+    "@sergiy_m" : {
+      "Слак" : "@sergiy_m",
+      "Джуджики" : 25
+    },
+    "@serhii" : {
+      "Слак" : "@serhii",
+      "Джуджики" : 69
+    },
+    "@serhiy.shpak" : {
+      "Слак" : "@serhiy.shpak",
+      "Джуджики" : 11
+    },
+    "@serzh.z" : {
+      "Слак" : "@serzh.z",
+      "Джуджики" : 289
+    },
+    "@sevladem" : {
+      "Слак" : "@sevladem",
+      "Джуджики" : 1
+    },
+    "@sfilinskiy" : {
+      "Слак" : "@sfilinskiy",
+      "Джуджики" : 3
+    },
+    "@shpion" : {
+      "Слак" : "@shpion",
+      "Джуджики" : 9
+    },
+    "@shtramak" : {
+      "Слак" : "@shtramak",
+      "Джуджики" : 78
+    },
+    "@sirius-diamond" : {
+      "Слак" : "@sirius-diamond",
+      "Джуджики" : 131
+    },
+    "@sky_fox" : {
+      "Слак" : "@sky_fox",
+      "Джуджики" : 10
+    },
+    "@skybird" : {
+      "Слак" : "@skybird",
+      "Джуджики" : 3
+    },
+    "@slava.konashkov" : {
+      "Слак" : "@slava.konashkov",
+      "Джуджики" : 13
+    },
+    "@slisnychyi" : {
+      "Слак" : "@slisnychyi",
+      "Джуджики" : 52
+    },
+    "@slywer" : {
+      "Слак" : "@slywer",
+      "Джуджики" : 78
+    },
+    "@solykk" : {
+      "Слак" : "@solykk",
+      "Джуджики" : 158
+    },
+    "@spiritmoon22" : {
+      "Слак" : "@spiritmoon22",
+      "Джуджики" : 15
+    },
+    "@start_ok" : {
+      "Слак" : "@start_ok",
+      "Джуджики" : 1
+    },
+    "@stasn" : {
+      "Слак" : "@stasn",
+      "Джуджики" : 1
+    },
+    "@stein" : {
+      "Слак" : "@stein",
+      "Джуджики" : 1
+    },
+    "@stereoj_andy" : {
+      "Слак" : "@stereoj_andy",
+      "Джуджики" : 52
+    },
+    "@strannik" : {
+      "Слак" : "@strannik",
+      "Джуджики" : 143
+    },
+    "@strannik19" : {
+      "Слак" : "@strannik19",
+      "Джуджики" : 17
+    },
+    "@sunnyknure" : {
+      "Слак" : "@sunnyknure",
+      "Джуджики" : 1
+    },
+    "@sveta-san" : {
+      "Слак" : "@sveta-san",
+      "Джуджики" : 1
+    },
+    "@svyatoslav" : {
+      "Слак" : "@svyatoslav",
+      "Джуджики" : 60
+    },
+    "@sydorenko.yaroslav" : {
+      "Слак" : "@sydorenko.yaroslav",
+      "Джуджики" : 78
+    },
+    "@tamaraniorba" : {
+      "Слак" : "@tamaraniorba",
+      "Джуджики" : 1
+    },
+    "@taras.ignatiy" : {
+      "Слак" : "@taras.ignatiy",
+      "Джуджики" : 11
+    },
+    "@tarp" : {
+      "Слак" : "@tarp",
+      "Джуджики" : 1
+    },
+    "@tatyana.pomaz" : {
+      "Слак" : "@tatyana.pomaz",
+      "Джуджики" : 1
+    },
+    "@tema" : {
+      "Слак" : "@tema",
+      "Джуджики" : 1
+    },
+    "@tervola" : {
+      "Слак" : "@tervola",
+      "Джуджики" : 32
+    },
+    "@tigerforce" : {
+      "Слак" : "@tigerforce",
+      "Джуджики" : 1
+    },
+    "@tipo4ek" : {
+      "Слак" : "@tipo4ek",
+      "Джуджики" : 1
+    },
+    "@topvova" : {
+      "Слак" : "@topvova",
+      "Джуджики" : 73
+    },
+    "@ts" : {
+      "Слак" : "@ts",
+      "Джуджики" : 13
+    },
+    "@tugay.andrey" : {
+      "Слак" : "@tugay.andrey",
+      "Джуджики" : 0
+    },
+    "@ura" : {
+      "Слак" : "@ura",
+      "Джуджики" : 25
+    },
+    "@uran" : {
+      "Слак" : "@uran",
+      "Джуджики" : 40
+    },
+    "@v_alex" : {
+      "Слак" : "@v_alex",
+      "Джуджики" : 81
+    },
+    "@v.bogutskiy" : {
+      "Слак" : "@v.bogutskiy",
+      "Джуджики" : 1
+    },
+    "@vadik1337" : {
+      "Слак" : "@vadik1337",
+      "Джуджики" : 10
+    },
+    "@vadim" : {
+      "Слак" : "@vadim",
+      "Джуджики" : 102
+    },
+    "@vadim.dyachenko" : {
+      "Слак" : "@vadim.dyachenko",
+      "Джуджики" : 271
+    },
+    "@vados" : {
+      "Слак" : "@vados",
+      "Джуджики" : 36
+    },
+    "@vaksa" : {
+      "Слак" : "@vaksa",
+      "Джуджики" : 67
+    },
+    "@valentin" : {
+      "Слак" : "@valentin",
+      "Джуджики" : 61
+    },
+    "@valentin.opanasyuk" : {
+      "Слак" : "@valentin.opanasyuk",
+      "Джуджики" : 72
+    },
+    "@valentyn" : {
+      "Слак" : "@valentyn",
+      "Джуджики" : 18
+    },
+    "@valera_d" : {
+      "Слак" : "@valera_d",
+      "Джуджики" : 165
+    },
+    "@valerii_fedorenko" : {
+      "Слак" : "@valerii_fedorenko",
+      "Джуджики" : 1
+    },
+    "@valeriia" : {
+      "Слак" : "@valeriia",
+      "Джуджики" : 1
+    },
+    "@valiage" : {
+      "Слак" : "@valiage",
+      "Джуджики" : 1
+    },
+    "@vanya" : {
+      "Слак" : "@vanya",
+      "Джуджики" : 51
+    },
+    "@varenik" : {
+      "Слак" : "@varenik",
+      "Джуджики" : 1
+    },
+    "@vart" : {
+      "Слак" : "@vart",
+      "Джуджики" : 1
+    },
+    "@vartemenko" : {
+      "Слак" : "@vartemenko",
+      "Джуджики" : 1
+    },
+    "@veshchiy" : {
+      "Слак" : "@veshchiy",
+      "Джуджики" : 1
+    },
+    "@vetalpritulyak" : {
+      "Слак" : "@vetalpritulyak",
+      "Джуджики" : 1
+    },
+    "@veug" : {
+      "Слак" : "@veug",
+      "Джуджики" : 45
+    },
+    "@viktor.kovalev" : {
+      "Слак" : "@viktor.kovalev",
+      "Джуджики" : 78
+    },
+    "@viktoriankv" : {
+      "Слак" : "@viktoriankv",
+      "Джуджики" : 1
+    },
+    "@vikvalman" : {
+      "Слак" : "@vikvalman",
+      "Джуджики" : 1
+    },
+    "@vitalii.krasov" : {
+      "Слак" : "@vitalii.krasov",
+      "Джуджики" : 37
+    },
+    "@vitaliy_angrybeaver" : {
+      "Слак" : "@vitaliy_angrybeaver",
+      "Джуджики" : 12
+    },
+    "@vitaliy.rybakov" : {
+      "Слак" : "@vitaliy.rybakov",
+      "Джуджики" : 241
+    },
+    "@vitaliy.vyazovoy" : {
+      "Слак" : "@vitaliy.vyazovoy",
+      "Джуджики" : 185
+    },
+    "@vkuchyn" : {
+      "Слак" : "@vkuchyn",
+      "Джуджики" : 62
+    },
+    "@vlad" : {
+      "Слак" : "@vlad",
+      "Джуджики" : 1
+    },
+    "@vlad_over" : {
+      "Слак" : "@vlad_over",
+      "Джуджики" : 2
+    },
+    "@vlad91" : {
+      "Слак" : "@vlad91",
+      "Джуджики" : 19
+    },
+    "@vladimir" : {
+      "Слак" : "@vladimir",
+      "Джуджики" : 7
+    },
+    "@vladimir.chernenko" : {
+      "Слак" : "@vladimir.chernenko",
+      "Джуджики" : 10
+    },
+    "@vladimir.pivovar" : {
+      "Слак" : "@vladimir.pivovar",
+      "Джуджики" : 32
+    },
+    "@vladimir.shcherbyna" : {
+      "Слак" : "@vladimir.shcherbyna",
+      "Джуджики" : 52
+    },
+    "@vlkvsky" : {
+      "Слак" : "@vlkvsky",
+      "Джуджики" : 87
+    },
+    "@volodymyr_guyva" : {
+      "Слак" : "@volodymyr_guyva",
+      "Джуджики" : 3
+    },
+    "@vova_gusar" : {
+      "Слак" : "@vova_gusar",
+      "Джуджики" : 4
+    },
+    "@vovk.alexey" : {
+      "Слак" : "@vovk.alexey",
+      "Джуджики" : 33
+    },
+    "@vsavch" : {
+      "Слак" : "@vsavch",
+      "Джуджики" : 1
+    },
+    "@vyacheslav.kruhlov" : {
+      "Слак" : "@vyacheslav.kruhlov",
+      "Джуджики" : 1
+    },
+    "@wayfarer" : {
+      "Слак" : "@wayfarer",
+      "Джуджики" : 18
+    },
+    "@wildcat" : {
+      "Слак" : "@wildcat",
+      "Джуджики" : 2
+    },
+    "@woodoo" : {
+      "Слак" : "@woodoo",
+      "Джуджики" : 31
+    },
+    "@yakozakov" : {
+      "Слак" : "@yakozakov",
+      "Джуджики" : 9
+    },
+    "@yan.bondarenko" : {
+      "Слак" : "@yan.bondarenko",
+      "Джуджики" : 10
+    },
+    "@yanina" : {
+      "Слак" : "@yanina",
+      "Джуджики" : 2
+    },
+    "@yeryery" : {
+      "Слак" : "@yeryery",
+      "Джуджики" : 171
+    },
+    "@yoss" : {
+      "Слак" : "@yoss",
+      "Джуджики" : 1
+    },
+    "@yuras29" : {
+      "Слак" : "@yuras29",
+      "Джуджики" : 6
+    },
+    "@yuravel" : {
+      "Слак" : "@yuravel",
+      "Джуджики" : 1
+    },
+    "@yuriy_lavrinchuk" : {
+      "Слак" : "@yuriy_lavrinchuk",
+      "Джуджики" : 75
+    },
+    "@yuriy.seryodkin" : {
+      "Слак" : "@yuriy.seryodkin",
+      "Джуджики" : 48
+    },
+    "@yury.antipov" : {
+      "Слак" : "@yury.antipov",
+      "Джуджики" : 1
+    },
+    "@zammer" : {
+      "Слак" : "@zammer",
+      "Джуджики" : 1
+    },
+    "@zhenya" : {
+      "Слак" : "@zhenya",
+      "Джуджики" : 5
+    },
+    "@zk" : {
+      "Слак" : "@zk",
+      "Джуджики" : 6
+    },
+    "@zver" : {
+      "Слак" : "@zver",
+      "Джуджики" : 0
+    },
+    "andrew.kolpakov" : {
+      "Слак" : "andrew.kolpakov",
+      "Джуджики" : 7
+    },
+    "roman.filipchak" : {
+      "Слак" : "roman.filipchak",
+      "Джуджики" : 6
+    },
+    "ruslan.bogun" : {
+      "Слак" : "ruslan.bogun",
+      "Джуджики" : 1
+    },
+    "serhii.honcharenko" : {
+      "Слак" : "serhii.honcharenko",
+      "Джуджики" : 4
+    }
+
+}
